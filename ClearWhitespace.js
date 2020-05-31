@@ -10,5 +10,5 @@ ClearWhitespace.inputs = [
 ]
 ClearWhitespace.identifier = "com.sothawo.PawExtensions.ClearWhitespace";
 ClearWhitespace.title = "clear whitespace";
-ClearWhitespace.help = "https://luckymarmot.com/paw/doc/";
+ClearWhitespace.help = "https://github.com/sothawo/pawextension-clearwhitespace";
 registerDynamicValueClass(ClearWhitespace)
