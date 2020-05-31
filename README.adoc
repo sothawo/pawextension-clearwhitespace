@@ -1,0 +1,10 @@
+= ClearWhitespace
+
+A simple https://paw.cloud/[Paw] extension that will take a String input and compress adjacent whitespaces (including newlines) to a single one.
+
+== Installation
+
+The content of this repository (without the _.git_ stuff) must be copied into a directory
+that's named _com.sothawo.PawExtensions.ClearWhitespace_ and that resides in your PAW's extension directory.
+
+To find this directory, open the PAW settings, switch to _Extensions_; there at the bottom, the location of the extension directory is shown
